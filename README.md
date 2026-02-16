@@ -185,7 +185,7 @@ O projeto prioriza **coerência física e operacional**, evitando **superestima�
 
 Cada linha representa:
 
-> **Produção média diária declarada × tempo efetivo de produção**
+**Produção média diária declarada × tempo efetivo de produção**
 
 ---
 
@@ -260,7 +260,6 @@ Todas as decisões técnicas, inferências e limitações estão **documentadas 
 
 ## 📣 Observação Final
 
-Este projeto reflete um cenário real de **engenharia de dados industrial**, onde:
-> Dados imperfeitos exigem decisões técnicas bem fundamentadas, documentadas e auditáveis.
+Este projeto reflete um cenário real de **engenharia de dados industrial**, onde dados imperfeitos exigem decisões técnicas bem fundamentadas, documentadas e auditáveis.
 
 ---
