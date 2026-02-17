@@ -100,7 +100,7 @@ O pipeline foi estruturado seguindo a **arquitetura Medallion**, garantindo esca
 
 Cada linha representa:
 
-> **1 poço × 1 mês**
+**1 poço × 1 mês**
 
 ---
 
